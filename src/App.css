@@ -45,6 +45,16 @@
   justify-content: center;
   margin-top: 3rem;
 }
+.con
+{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
 input
 {
   padding: 1rem;
