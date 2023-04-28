@@ -1,0 +1,10 @@
+.items > *:hover {
+    background-color: black;
+    cursor: pointer;
+    color: aliceblue;
+  }
+  .items > * {
+    border-radius: 6px;
+    padding: 1px 4px;
+    font-size: 10px;
+  }
